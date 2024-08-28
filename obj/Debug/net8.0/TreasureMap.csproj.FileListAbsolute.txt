@@ -1,0 +1,14 @@
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.AssemblyInfoInputs.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.AssemblyInfo.cs
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.csproj.CoreCompileInputs.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\bin\Debug\net8.0\TreasureMap.exe
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\bin\Debug\net8.0\TreasureMap.deps.json
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\bin\Debug\net8.0\TreasureMap.runtimeconfig.json
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\bin\Debug\net8.0\TreasureMap.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\bin\Debug\net8.0\TreasureMap.pdb
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\refint\TreasureMap.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.pdb
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.genruntimeconfig.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\ref\TreasureMap.dll
