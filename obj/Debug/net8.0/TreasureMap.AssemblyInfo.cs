@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreasureMap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae221fc06026b1ef3dda51479ccce9ea9f8557de")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreasureMap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreasureMap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

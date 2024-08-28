@@ -12,3 +12,4 @@ C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\r
 C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.pdb
 C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.genruntimeconfig.cache
 C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\ref\TreasureMap.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\TreasureMap\obj\Debug\net8.0\TreasureMap.sourcelink.json

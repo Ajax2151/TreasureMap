@@ -37,6 +37,7 @@ do
             }
             else
             {
+                Console.Clear();
                 Console.WriteLine("You made it past Checkpoint 1!");
                 Console.WriteLine("");
 
@@ -63,6 +64,7 @@ do
                         }
                         else
                         {
+                            Console.Clear();
                             Console.WriteLine("You made it past Checkpoint 2!");
                             Console.WriteLine("");
 
