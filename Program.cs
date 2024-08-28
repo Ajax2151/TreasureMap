@@ -42,7 +42,6 @@ do
                 Console.Clear();
                 Console.WriteLine("You made it past Checkpoint 1!");
                 Console.WriteLine("");
-
                 Console.WriteLine("Welcome to Checkpoint 2. Choose \"left\" or \"right\" to continue.");
                 readResult = Console.ReadLine();
 
@@ -69,7 +68,6 @@ do
                             Console.Clear();
                             Console.WriteLine("You made it past Checkpoint 2!");
                             Console.WriteLine("");
-
                             Console.WriteLine("Welcome to Checkpoint 3. Choose \"red\" to go through the red door, \"blue\" to go through the blue door, or \"yellow\" to go through the yellow door.");
                             readResult = Console.ReadLine();
 
