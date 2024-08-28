@@ -1,5 +1,7 @@
 ﻿/* 
-Treasure Map is a "choose your own adventure" style text game that provides a different outcome based on the user's choices at various checkpoints.
+Treasure Map is a "choose your own adventure" style text game that provides a different outcome based on the user's choices at various checkpoints. 
+
+The basic "proof of concept" skeleton was created on 8/28/24, containing three forks in logic and bare-bones display information.
 */
 
 // Variables
